@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Batuhan Toraman</h1>
+<h1 align="center">Hi , I'm Batuhan Toraman</h1>
 <h3 align="center">an EEE guy who is obsessed with programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pharmakilo&label=Profile%20views&color=01090e&style=flat" alt="pharmakilo" /> </p>
